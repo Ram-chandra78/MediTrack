@@ -1,11 +1,12 @@
 import './App.css'
-
+import Home from './Components/page/Home'
 function App() {
   
 
   return (
     <>
-    <h1>ram</h1>
+    <Home/>
+   
     </>
       
   )
