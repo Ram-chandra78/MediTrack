@@ -4,8 +4,11 @@
 body {
   font-family: 'Roboto', sans-serif;
 }
+<<<<<<< HEAD
 .gradient-text {
     background: linear-gradient(135deg, #2563eb 0%, #06b6d4 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
+=======
+>>>>>>> 67192c1109c039bea1e81e4b41830e968f2c422f
