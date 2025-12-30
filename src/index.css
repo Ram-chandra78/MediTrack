@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+/* index.css */
+body {
+  font-family: 'Roboto', sans-serif;
+}
+.gradient-text {
+    background: linear-gradient(135deg, #2563eb 0%, #06b6d4 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
